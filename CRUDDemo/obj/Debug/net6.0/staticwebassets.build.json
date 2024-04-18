@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1FFqMqBl+zHxbdcXrqnJIJF/9a0DjKP4Yt8Ou6ttZCI=",
+  "Source": "CRUDDemo",
+  "BasePath": "_content/CRUDDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDDemo\\wwwroot",
+      "Source": "CRUDDemo",
+      "ContentRoot": "C:\\Users\\Aaron\\Documents\\PROJECTS\\CRUDDemo\\CRUDDemo\\wwwroot\\",
+      "BasePath": "_content/CRUDDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Aaron\\Documents\\PROJECTS\\CRUDDemo\\CRUDDemo\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aaron\\Documents\\PROJECTS\\CRUDDemo\\CRUDDemo\\wwwroot\\",
+      "BasePath": "_content/CRUDDemo",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
